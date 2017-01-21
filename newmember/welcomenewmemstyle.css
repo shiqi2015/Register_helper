@@ -1,0 +1,13 @@
+h2 {
+    background-color:rgba(192,192,192,0.3);
+    font-size: 56px;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    
+}
+
+input[type=submit] {
+    color: black;
+    font-family: verdana;
+    font-size: 20px;
+}
